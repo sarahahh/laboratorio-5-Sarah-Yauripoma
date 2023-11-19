@@ -1,0 +1,13 @@
+D:\CULEBRITA\CULEBRITA\bin\Debug\CULEBRITA.exe.config
+D:\CULEBRITA\CULEBRITA\bin\Debug\CULEBRITA.exe
+D:\CULEBRITA\CULEBRITA\bin\Debug\CULEBRITA.pdb
+D:\CULEBRITA\CULEBRITA\obj\Debug\CULEBRITA.csproj.AssemblyReference.cache
+D:\CULEBRITA\CULEBRITA\obj\Debug\CULEBRITA.Form1.resources
+D:\CULEBRITA\CULEBRITA\obj\Debug\CULEBRITA.Properties.Resources.resources
+D:\CULEBRITA\CULEBRITA\obj\Debug\CULEBRITA.csproj.GenerateResource.cache
+D:\CULEBRITA\CULEBRITA\obj\Debug\CULEBRITA.csproj.CoreCompileInputs.cache
+D:\CULEBRITA\CULEBRITA\obj\Debug\CULEBRITA.exe
+D:\CULEBRITA\CULEBRITA\obj\Debug\CULEBRITA.pdb
+D:\CULEBRITA\CULEBRITA\obj\Debug\CULEBRITA.Form2.resources
+D:\CULEBRITA\CULEBRITA\obj\Debug\CULEBRITA.Form3.resources
+D:\CULEBRITA\CULEBRITA\obj\Debug\CULEBRITA.Form4.resources
